@@ -10,20 +10,34 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the first value:");
-            int integerOne = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the second value:");
-            int integerTwo = Convert.ToInt32(Console.ReadLine());
-            if (integerOne == integerTwo)
+            Program program = new Program();
+            program.checkEqualNumber();   
+        }
+        public void checkEqualNumber()
+        {
+            Console.WriteLine("Enter the number:");
+            string input = Console.ReadLine();
+            double number;
+            if (double.TryParse(input, out number))
             {
-                Console.WriteLine("The numbers are equal");
+                if (number > 0)
+                {
+                    Console.WriteLine("the number is positive");
+                }
+                else if (number < 0)
+                {
+                    Console.WriteLine("the number is negative");
+                }
+                else
+                { Console.WriteLine("the number is zero"); }
 
             }
             else
             {
-                Console.WriteLine("they are not equal");
+                Console.WriteLine("invalid input,please enter a valid number");
             }
             Console.ReadLine();
+            
         }
     }
 }
