@@ -45,29 +45,30 @@ namespace Test
 
             //Console.ReadLine();
             Console.WriteLine("\r\n\r\n");
+            
             Console.WriteLine("To get 2 numbers from the user and then perform (+,/,-,*)");
-            // Prompt user to enter the first number
+            
+            // enter the first number
             Console.WriteLine("Enter the first number:");
             int number1 = Convert.ToInt32(Console.ReadLine());
 
-            // Prompt user to enter the second number
+            // enter the second number
             Console.WriteLine("Enter the second number:");
             int number2 = Convert.ToInt32(Console.ReadLine());
 
-            // Perform addition
+            // addition
             int sum = number1 + number2;
             Console.WriteLine($"Sum of {number1} and {number2} is: {sum}");
 
-            // Perform subtraction
+            //subtraction
             int difference = number1 - number2;
             Console.WriteLine($"Difference of {number1} and {number2} is: {difference}");
 
-            // Perform multiplication
+            //multiplication
             int product = number1 * number2;
             Console.WriteLine($"Product of {number1} and {number2} is: {product}");
 
-            // Perform division (considering integer division for simplicity)
-            // Ensure number2 is not zero to avoid division by zero error
+            //division 
             if (number2 != 0)
             {
                 int quotient = number1 / number2;
@@ -78,7 +79,46 @@ namespace Test
                 Console.WriteLine("Division by zero is not defined.");
             }
 
+            //Console.ReadLine();
+            Console.WriteLine("\r\n\r\n");
+
+            Console.WriteLine("To swap 2 numbers");
+            Console.WriteLine("Enter the num1:");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter the num2:");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"Before swapping: num 1 = {num1}, num2 = {num2}");
+
+            int temp = num1;
+            num1 = num2;
+            num2 = temp;
+
+            Console.WriteLine($"After swapping: num1 = {num1}, num2 = {num2}");
+
             Console.ReadLine();
+            Console.WriteLine("\r\n\r\n");
+
+            Console.WriteLine("Displaying number as a input");
+
+            Console.WriteLine("Enter a number:");
+            int n1 = Convert.ToInt32(Console.ReadLine());
+
+            // First set of rows with spaces in between
+            Console.WriteLine("{0} {0} {0} {0}", n1);
+
+            // Second set of rows without spaces in between
+            Console.WriteLine("{0}{0}{0}{0}", n1);
+
+            Console.WriteLine();
+
+            // Repeat
+            Console.WriteLine("{0} {0} {0} {0}", n1);
+            Console.WriteLine("{0}{0}{0}{0}", n1);
+
+            Console.ReadLine();
+
         }
     }
 }
