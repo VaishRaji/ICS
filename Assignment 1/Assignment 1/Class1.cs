@@ -6,29 +6,8 @@ using System.Threading.Tasks;
 
 namespace Assignment_1
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-
-        {
-            prgm2();
-            Console.WriteLine("Enter the number");
-            int integerOne = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter the number");
-            int integerTwo = Convert.ToInt32(Console.ReadLine());
-            if (integerOne == integerTwo)
-            {
-                Console.WriteLine("They are Equal");
-            }
-            else
-            {
-                Console.WriteLine("They are not Equal");
-            }
-            //Console.ReadLine();
-            
-
-        }
-
         public static void prgm2()
         {
             Console.WriteLine("Enter a number:");
@@ -50,6 +29,6 @@ namespace Assignment_1
             Console.ReadLine();
         }
     }
-
 }
+
 
