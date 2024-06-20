@@ -1,0 +1,7 @@
+C:\Users\vaishnavira\source\repos\Assessment 1 code3\Assessment 1 code3\bin\Debug\Assessment 1 code3.exe.config
+C:\Users\vaishnavira\source\repos\Assessment 1 code3\Assessment 1 code3\bin\Debug\Assessment 1 code3.exe
+C:\Users\vaishnavira\source\repos\Assessment 1 code3\Assessment 1 code3\bin\Debug\Assessment 1 code3.pdb
+C:\Users\vaishnavira\source\repos\Assessment 1 code3\Assessment 1 code3\obj\Debug\Assessment 1 code3.csproj.AssemblyReference.cache
+C:\Users\vaishnavira\source\repos\Assessment 1 code3\Assessment 1 code3\obj\Debug\Assessment 1 code3.csproj.CoreCompileInputs.cache
+C:\Users\vaishnavira\source\repos\Assessment 1 code3\Assessment 1 code3\obj\Debug\Assessment 1 code3.exe
+C:\Users\vaishnavira\source\repos\Assessment 1 code3\Assessment 1 code3\obj\Debug\Assessment 1 code3.pdb
