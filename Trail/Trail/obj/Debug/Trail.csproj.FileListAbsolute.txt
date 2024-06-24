@@ -1,7 +1,0 @@
-D:\ICS C#\Trail\Trail\obj\Debug\Trail.csproj.AssemblyReference.cache
-D:\ICS C#\Trail\Trail\obj\Debug\Trail.csproj.CoreCompileInputs.cache
-D:\ICS C#\Trail\Trail\bin\Debug\Trail.exe.config
-D:\ICS C#\Trail\Trail\bin\Debug\Trail.exe
-D:\ICS C#\Trail\Trail\bin\Debug\Trail.pdb
-D:\ICS C#\Trail\Trail\obj\Debug\Trail.exe
-D:\ICS C#\Trail\Trail\obj\Debug\Trail.pdb

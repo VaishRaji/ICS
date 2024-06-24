@@ -1,7 +1,0 @@
-D:\ICS C#\Tuesday day5\Tuesday day5\obj\Debug\Tuesday day5.csproj.AssemblyReference.cache
-D:\ICS C#\Tuesday day5\Tuesday day5\obj\Debug\Tuesday day5.csproj.CoreCompileInputs.cache
-D:\ICS C#\Tuesday day5\Tuesday day5\bin\Debug\Tuesday day5.exe.config
-D:\ICS C#\Tuesday day5\Tuesday day5\bin\Debug\Tuesday day5.exe
-D:\ICS C#\Tuesday day5\Tuesday day5\bin\Debug\Tuesday day5.pdb
-D:\ICS C#\Tuesday day5\Tuesday day5\obj\Debug\Tuesday day5.exe
-D:\ICS C#\Tuesday day5\Tuesday day5\obj\Debug\Tuesday day5.pdb
