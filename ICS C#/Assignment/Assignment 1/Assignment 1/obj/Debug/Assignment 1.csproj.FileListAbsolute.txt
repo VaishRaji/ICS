@@ -1,0 +1,7 @@
+D:\ICS C#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+D:\ICS C#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+D:\ICS C#\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+D:\ICS C#\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+D:\ICS C#\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+D:\ICS C#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+D:\ICS C#\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
