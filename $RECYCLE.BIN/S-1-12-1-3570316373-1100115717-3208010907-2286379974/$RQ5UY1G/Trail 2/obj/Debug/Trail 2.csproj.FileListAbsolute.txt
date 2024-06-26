@@ -1,0 +1,7 @@
+D:\ICS C#\Trail 2\Trail 2\bin\Debug\Trail 2.exe.config
+D:\ICS C#\Trail 2\Trail 2\bin\Debug\Trail 2.exe
+D:\ICS C#\Trail 2\Trail 2\bin\Debug\Trail 2.pdb
+D:\ICS C#\Trail 2\Trail 2\obj\Debug\Trail 2.csproj.AssemblyReference.cache
+D:\ICS C#\Trail 2\Trail 2\obj\Debug\Trail 2.csproj.CoreCompileInputs.cache
+D:\ICS C#\Trail 2\Trail 2\obj\Debug\Trail 2.exe
+D:\ICS C#\Trail 2\Trail 2\obj\Debug\Trail 2.pdb
