@@ -1,0 +1,7 @@
+D:\Vaishu-ICS\c#\Assignment\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe.config
+D:\Vaishu-ICS\c#\Assignment\Assignment 4\Assignment 4\bin\Debug\Assignment 4.exe
+D:\Vaishu-ICS\c#\Assignment\Assignment 4\Assignment 4\bin\Debug\Assignment 4.pdb
+D:\Vaishu-ICS\c#\Assignment\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\c#\Assignment\Assignment 4\Assignment 4\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
+D:\Vaishu-ICS\c#\Assignment\Assignment 4\Assignment 4\obj\Debug\Assignment 4.exe
+D:\Vaishu-ICS\c#\Assignment\Assignment 4\Assignment 4\obj\Debug\Assignment 4.pdb

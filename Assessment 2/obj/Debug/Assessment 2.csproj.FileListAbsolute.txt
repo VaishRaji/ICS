@@ -1,7 +1,0 @@
-D:\ICS C#\Assessment 2\Assessment 2\obj\Debug\Assessment 2.csproj.AssemblyReference.cache
-D:\ICS C#\Assessment 2\Assessment 2\obj\Debug\Assessment 2.csproj.CoreCompileInputs.cache
-D:\ICS C#\Assessment 2\Assessment 2\bin\Debug\Assessment 2.exe.config
-D:\ICS C#\Assessment 2\Assessment 2\bin\Debug\Assessment 2.exe
-D:\ICS C#\Assessment 2\Assessment 2\bin\Debug\Assessment 2.pdb
-D:\ICS C#\Assessment 2\Assessment 2\obj\Debug\Assessment 2.exe
-D:\ICS C#\Assessment 2\Assessment 2\obj\Debug\Assessment 2.pdb
