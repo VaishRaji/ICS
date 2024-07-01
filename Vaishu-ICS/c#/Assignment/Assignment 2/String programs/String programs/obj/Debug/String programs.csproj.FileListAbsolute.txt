@@ -1,0 +1,7 @@
+D:\Vaishu-ICS\c#\Assignment\Assignment 2\String programs\String programs\bin\Debug\String programs.exe.config
+D:\Vaishu-ICS\c#\Assignment\Assignment 2\String programs\String programs\bin\Debug\String programs.exe
+D:\Vaishu-ICS\c#\Assignment\Assignment 2\String programs\String programs\bin\Debug\String programs.pdb
+D:\Vaishu-ICS\c#\Assignment\Assignment 2\String programs\String programs\obj\Debug\String programs.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\c#\Assignment\Assignment 2\String programs\String programs\obj\Debug\String programs.csproj.CoreCompileInputs.cache
+D:\Vaishu-ICS\c#\Assignment\Assignment 2\String programs\String programs\obj\Debug\String programs.exe
+D:\Vaishu-ICS\c#\Assignment\Assignment 2\String programs\String programs\obj\Debug\String programs.pdb
