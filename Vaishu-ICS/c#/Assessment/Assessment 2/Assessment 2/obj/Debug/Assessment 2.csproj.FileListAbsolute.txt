@@ -1,0 +1,2 @@
+D:\Vaishu-ICS\c#\Assessment\Assessment 2\Assessment 2\obj\Debug\Assessment 2.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\c#\Assessment\Assessment 2\Assessment 2\obj\Debug\Assessment 2.csproj.CoreCompileInputs.cache
