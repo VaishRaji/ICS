@@ -1,0 +1,7 @@
+D:\Vaishu-ICS\c#\Assessment\Assessment 1\Assessment 1\obj\Debug\Assessment 1.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\c#\Assessment\Assessment 1\Assessment 1\obj\Debug\Assessment 1.csproj.CoreCompileInputs.cache
+D:\Vaishu-ICS\c#\Assessment\Assessment 1\Assessment 1\bin\Debug\Assessment 1.exe.config
+D:\Vaishu-ICS\c#\Assessment\Assessment 1\Assessment 1\bin\Debug\Assessment 1.exe
+D:\Vaishu-ICS\c#\Assessment\Assessment 1\Assessment 1\bin\Debug\Assessment 1.pdb
+D:\Vaishu-ICS\c#\Assessment\Assessment 1\Assessment 1\obj\Debug\Assessment 1.exe
+D:\Vaishu-ICS\c#\Assessment\Assessment 1\Assessment 1\obj\Debug\Assessment 1.pdb
