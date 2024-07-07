@@ -1,0 +1,7 @@
+D:\Vaishu-ICS\c#\Assignment\Assignment 6\Ass6-pgm3\Ass6-pgm3\bin\Debug\Ass6-pgm3.exe.config
+D:\Vaishu-ICS\c#\Assignment\Assignment 6\Ass6-pgm3\Ass6-pgm3\bin\Debug\Ass6-pgm3.exe
+D:\Vaishu-ICS\c#\Assignment\Assignment 6\Ass6-pgm3\Ass6-pgm3\bin\Debug\Ass6-pgm3.pdb
+D:\Vaishu-ICS\c#\Assignment\Assignment 6\Ass6-pgm3\Ass6-pgm3\obj\Debug\Ass6-pgm3.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\c#\Assignment\Assignment 6\Ass6-pgm3\Ass6-pgm3\obj\Debug\Ass6-pgm3.csproj.CoreCompileInputs.cache
+D:\Vaishu-ICS\c#\Assignment\Assignment 6\Ass6-pgm3\Ass6-pgm3\obj\Debug\Ass6-pgm3.exe
+D:\Vaishu-ICS\c#\Assignment\Assignment 6\Ass6-pgm3\Ass6-pgm3\obj\Debug\Ass6-pgm3.pdb
