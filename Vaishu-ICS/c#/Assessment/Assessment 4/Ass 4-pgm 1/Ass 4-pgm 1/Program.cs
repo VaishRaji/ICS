@@ -24,8 +24,7 @@ namespace Ass_4_pgm_1
             Console.WriteLine("Please enter the text to append to the file:");
             string userText = Console.ReadLine();
 
-            string timeStamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-            string textToAppend = $"[{timeStamp}] {userText}";
+            string textToAppend = userText;
 
             StreamWriter writer = null;
             try
@@ -49,5 +48,5 @@ namespace Ass_4_pgm_1
         }
     }
 }
-    
-   
+
+
