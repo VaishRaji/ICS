@@ -1,0 +1,7 @@
+D:\Vaishu-ICS\c#\Assessment\Assessment 4\Ass 4-pgm 3\Ass 4-pgm 3\bin\Debug\Ass 4-pgm 3.exe.config
+D:\Vaishu-ICS\c#\Assessment\Assessment 4\Ass 4-pgm 3\Ass 4-pgm 3\bin\Debug\Ass 4-pgm 3.exe
+D:\Vaishu-ICS\c#\Assessment\Assessment 4\Ass 4-pgm 3\Ass 4-pgm 3\bin\Debug\Ass 4-pgm 3.pdb
+D:\Vaishu-ICS\c#\Assessment\Assessment 4\Ass 4-pgm 3\Ass 4-pgm 3\obj\Debug\Ass 4-pgm 3.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\c#\Assessment\Assessment 4\Ass 4-pgm 3\Ass 4-pgm 3\obj\Debug\Ass 4-pgm 3.csproj.CoreCompileInputs.cache
+D:\Vaishu-ICS\c#\Assessment\Assessment 4\Ass 4-pgm 3\Ass 4-pgm 3\obj\Debug\Ass 4-pgm 3.exe
+D:\Vaishu-ICS\c#\Assessment\Assessment 4\Ass 4-pgm 3\Ass 4-pgm 3\obj\Debug\Ass 4-pgm 3.pdb
