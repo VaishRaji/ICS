@@ -1,0 +1,7 @@
+D:\Vaishu-ICS\SQL\Assessment\Assessment 2\Sql_Ado Assessment\Sql_Ado Assessment\bin\Debug\Sql_Ado Assessment.exe.config
+D:\Vaishu-ICS\SQL\Assessment\Assessment 2\Sql_Ado Assessment\Sql_Ado Assessment\bin\Debug\Sql_Ado Assessment.exe
+D:\Vaishu-ICS\SQL\Assessment\Assessment 2\Sql_Ado Assessment\Sql_Ado Assessment\bin\Debug\Sql_Ado Assessment.pdb
+D:\Vaishu-ICS\SQL\Assessment\Assessment 2\Sql_Ado Assessment\Sql_Ado Assessment\obj\Debug\Sql_Ado Assessment.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\SQL\Assessment\Assessment 2\Sql_Ado Assessment\Sql_Ado Assessment\obj\Debug\Sql_Ado Assessment.csproj.CoreCompileInputs.cache
+D:\Vaishu-ICS\SQL\Assessment\Assessment 2\Sql_Ado Assessment\Sql_Ado Assessment\obj\Debug\Sql_Ado Assessment.exe
+D:\Vaishu-ICS\SQL\Assessment\Assessment 2\Sql_Ado Assessment\Sql_Ado Assessment\obj\Debug\Sql_Ado Assessment.pdb
