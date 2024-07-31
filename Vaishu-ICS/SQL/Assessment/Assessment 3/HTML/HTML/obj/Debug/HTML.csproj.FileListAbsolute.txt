@@ -1,0 +1,7 @@
+D:\Vaishu-ICS\SQL\Assessment\Assessment 3\HTML\HTML\bin\Debug\HTML.exe.config
+D:\Vaishu-ICS\SQL\Assessment\Assessment 3\HTML\HTML\bin\Debug\HTML.exe
+D:\Vaishu-ICS\SQL\Assessment\Assessment 3\HTML\HTML\bin\Debug\HTML.pdb
+D:\Vaishu-ICS\SQL\Assessment\Assessment 3\HTML\HTML\obj\Debug\HTML.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\SQL\Assessment\Assessment 3\HTML\HTML\obj\Debug\HTML.csproj.CoreCompileInputs.cache
+D:\Vaishu-ICS\SQL\Assessment\Assessment 3\HTML\HTML\obj\Debug\HTML.exe
+D:\Vaishu-ICS\SQL\Assessment\Assessment 3\HTML\HTML\obj\Debug\HTML.pdb
