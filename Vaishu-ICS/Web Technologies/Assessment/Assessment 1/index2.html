@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Odd or Even Checker</title>
+</head>
+<body>
+<h2>Odd or Even Checker</h2>
+<label for="maxNumber">Enter a number: </label>
+<input type="number" id="maxNumber" min="0">
+<button onclick="checkOddEven()">Check</button>
+<div id="output"></div>
+ 
+    <script>
+        function checkOddEven() {
+            let maxNumber = document.getElementById('maxNumber').value;
+            maxNumber = parseInt(maxNumber);
+            let outputDiv = document.getElementById('output');
+            outputDiv.innerHTML = ""; 
+            for (let i = 0; i <= maxNumber; i++) {
+                if (i % 2 === 0) {
+                    outputDiv.innerHTML += i + " is even<br>";
+                } else {
+                    outputDiv.innerHTML += i + " is odd<br>";
+                }
+            }
+        }
+</script>
+</body>
+</html>
