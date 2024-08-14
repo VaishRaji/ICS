@@ -4,11 +4,11 @@ using System.Linq;
 using System.Web.Mvc;
 using System.Web;
 
-namespace MVC_EF_Db.Controllers
+  namespace  MVC_EF_Db.Models
 {
     public class CodeController : Controller
     {
-        northwindEntities nw = new northwindEntities();
+        northwindEntities1 nw = new northwindEntities1();
         // GET: Code
         public ActionResult Index()
         {
