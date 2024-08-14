@@ -1,0 +1,20 @@
+﻿@{ ViewBag.Title = "CustomersByOrderId"; }
+
+<h2>Customers whose order id is 10248</h2>
+
+<html>
+<body>
+    <table class="table">
+        <tr>
+            <th>Customer ID</th>
+            <th>Company Name</th>
+            <th>Country</th>
+        </tr>
+        <tr>
+            <td>@Model.CustomerID</td>
+            <td>@Model.CompanyName</td>
+            <td>@Model.Country</td>
+        </tr>
+    </table>
+</body>
+</html>

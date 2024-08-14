@@ -1,0 +1,2 @@
+D:\Vaishu-ICS\MVC\Assessment\MVC_Codefirst_final\MVC_Codefirst_final\obj\Debug\MVC_Codefirst_final.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\MVC\Assessment\MVC_Codefirst_final\MVC_Codefirst_final\obj\Debug\MVC_Codefirst_final.csproj.CoreCompileInputs.cache

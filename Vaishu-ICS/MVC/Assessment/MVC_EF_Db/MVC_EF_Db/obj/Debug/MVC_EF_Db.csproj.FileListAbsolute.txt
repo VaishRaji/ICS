@@ -1,0 +1,2 @@
+D:\Vaishu-ICS\MVC\Assessment\MVC_EF_Db\MVC_EF_Db\obj\Debug\MVC_EF_Db.csproj.AssemblyReference.cache
+D:\Vaishu-ICS\MVC\Assessment\MVC_EF_Db\MVC_EF_Db\obj\Debug\MVC_EF_Db.csproj.CoreCompileInputs.cache
