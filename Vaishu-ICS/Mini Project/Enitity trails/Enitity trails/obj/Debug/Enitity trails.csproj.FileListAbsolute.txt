@@ -1,0 +1,12 @@
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\obj\Debug\Enitity trails.csproj.AssemblyReference.cache
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\obj\Debug\Enitity trails.csproj.CoreCompileInputs.cache
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\bin\Debug\Enitity trails.exe.config
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\bin\Debug\Enitity trails.exe
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\bin\Debug\Enitity trails.pdb
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\bin\Debug\EntityFramework.dll
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\bin\Debug\EntityFramework.xml
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\obj\Debug\Enitity trails.csproj.CopyComplete
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\obj\Debug\Enitity trails.exe
+C:\Users\vaishnavira\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\MyWork\Enitity trails\Enitity trails\obj\Debug\Enitity trails.pdb
